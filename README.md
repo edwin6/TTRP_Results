@@ -26,4 +26,4 @@ Reynolds, E., Ehrgott, M. and Wang, J. Y. T. (submitted 2021). An evaluation of 
 Note that the results to my PhD thesis:
 Reynolds, E. (2021). Modelling, Solution and Evaluation Techniques for Train Timetable Rescheduling via Optimisation". PhD Thesis. Lancaster University. 
 are also in this repo.
-Archives concaster_ttrp, derby_speedprofile and doncaster_fairness contain results from Cahpter 5, 6 and 7 respectively. 
+Archives concaster_ttrp, derby_speedprofile and doncaster_fairness contain results from Chapter 5, 6 and 7 respectively. 
